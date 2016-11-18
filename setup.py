@@ -9,7 +9,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "abfile",
+    name = "gridxsec",
     version = "0.0.1",
     author = "Knut Lisaeter",
     author_email = "knutal@gmail.com",
